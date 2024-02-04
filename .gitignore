@@ -7,3 +7,6 @@ yarn.lock
 
 # database
 data/
+
+# Remove .DS_Store cause it's a macOS issue that I found when I pushed it before
+.DS_Store
